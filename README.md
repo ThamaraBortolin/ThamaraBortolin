@@ -1,4 +1,4 @@
-### Olá, meu nome é Thâmara!
+# Olá, meu nome é Thâmara!
 ## Bem vinda(o) ao meu GitHub👋
 
 <!--
