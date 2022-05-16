@@ -1,4 +1,5 @@
-![Bem vindo(a) ao meu github](https://user-images.githubusercontent.com/97200309/168683885-97c63890-a250-45fc-a6e6-e04e723f5afb.jpg)
+![Bem vindo(a) ao meu github](https://user-images.githubusercontent.com/97200309/168683985-248999ea-b41b-4e2a-915c-1c2d893861b4.gif)
+
 
 
 <!--
