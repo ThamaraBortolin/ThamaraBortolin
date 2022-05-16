@@ -1,5 +1,5 @@
-# Olá, meu nome é Thâmara!
-## Bem vinda(o) ao meu GitHub :blush:
+![Bem vindo(a) ao meu github](https://user-images.githubusercontent.com/97200309/168683885-97c63890-a250-45fc-a6e6-e04e723f5afb.jpg)
+
 
 <!--
 **ThamaraBortolin/ThamaraBortolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
