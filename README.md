@@ -23,3 +23,5 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 -Sou muuuuito curiosa e isso me impulsiona a sempre estar pesquisando e lendo documentações e tendo mais aprendizado.
 
 ![ThamaraBortolin Status](https://github-readme-stats.vercel.app/api?username=ThamaraBortolin&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamaraBortolin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
