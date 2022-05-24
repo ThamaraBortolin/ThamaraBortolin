@@ -22,8 +22,9 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 -Adoro sair parar beber e ir para festas, mas o que mais faço é ficar em casa e jogar jogos de FPS, Moba, Gatcha e etc.<br>
 -Sou muuuuito curiosa e isso me impulsiona a sempre estar pesquisando e lendo documentações e tendo mais aprendizado.
 
+
 ![ThamaraBortolin Status](https://github-readme-stats.vercel.app/api?username=ThamaraBortolin&show_icons=true&theme=synthwave)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamaraBortolin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ThamaraBortolin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThamaraBortolin)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamaraBortolin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
