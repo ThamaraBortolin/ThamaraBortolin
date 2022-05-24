@@ -10,4 +10,4 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 
 ## Entre as Soft Skills aprendi sobre:
 
-<img src="https://img.icons8.com/ios-filled/344/communication-skill.png">
+<img src='https://user-images.githubusercontent.com/97200309/170091567-9816f86f-ad16-43a3-a575-1da03ee46d9a.png'>
