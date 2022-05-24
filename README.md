@@ -17,6 +17,7 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 *Pensamento crítico
 
 ##Curiosidades sobre mim:
--Sou apaixonada por animes e o mundo de animação.
--Adoro sair parar beber e ir para festas, mas o que mais faço é ficar em casa e jogar jogos de FPS, Moba, Gatcha e etc.
+
+-Sou apaixonada por animes e o mundo de animação.<br>
+-Adoro sair parar beber e ir para festas, mas o que mais faço é ficar em casa e jogar jogos de FPS, Moba, Gatcha e etc.<br>
 -Sou muuuuito curiosa e isso me impulsiona a sempre estar pesquisando e lendo documentações e tendo mais aprendizado.
