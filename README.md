@@ -10,11 +10,11 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 
 ## Entre as Soft Skills:
 
-*Autodidata<br>
-*Colaborativa<br>
-*Ética<br>
-*Facilidade com planejamentos<br>
-*Pensamento crítico
+-Autodidata<br>
+-Colaborativa<br>
+-Ética<br>
+-Facilidade com planejamentos<br>
+-Pensamento crítico
 
 ## Curiosidades sobre mim:
 
