@@ -21,3 +21,5 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 -Sou apaixonada por animes e o mundo de animação.<br>
 -Adoro sair parar beber e ir para festas, mas o que mais faço é ficar em casa e jogar jogos de FPS, Moba, Gatcha e etc.<br>
 -Sou muuuuito curiosa e isso me impulsiona a sempre estar pesquisando e lendo documentações e tendo mais aprendizado.
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
