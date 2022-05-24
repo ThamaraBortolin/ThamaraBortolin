@@ -16,7 +16,7 @@ Bem vindo(a) ao meu perfil do GitHub, aqui você pode acompanhar e ver minha evo
 *Facilidade com planejamentos<br>
 *Pensamento crítico
 
-##Curiosidades sobre mim:
+## Curiosidades sobre mim:
 
 -Sou apaixonada por animes e o mundo de animação.<br>
 -Adoro sair parar beber e ir para festas, mas o que mais faço é ficar em casa e jogar jogos de FPS, Moba, Gatcha e etc.<br>
